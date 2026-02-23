@@ -71,6 +71,7 @@ layout: single  # 单栏布局
 |2023春| [2023春期中 (A)](../USTC/23SpTDAMid.pdf) | [2023春期末 (A)](../USTC/23SpTDAFinal.pdf) |
 |2024春| [2024春期中 (A)](../USTC/24SpTDAMid.pdf) | [2024春期末 (A)](../USTC/24SpTDAFinal.pdf) |
 |2025春| [2025春期中 (A)](../USTC/25SpTDAMid.pdf) | [2025春期末 (A)](../USTC/25SpTDAFinal.pdf) |
+|2026春| 暂无 | 暂无 |
 
 
 ## 计算物理
@@ -97,3 +98,4 @@ layout: single  # 单栏布局
 |2023春| 暂无 |
 |2024春| 暂无 |
 |2025春| 暂无 |
+|2026春| 暂无 |

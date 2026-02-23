@@ -33,6 +33,7 @@ layout: single  # 单栏布局
 |2023春| 暂无 | 暂无 |
 |2024春| 暂无 | [2024春 (A)](../USTC/24SpThermAFinal.pdf) |
 |2025春| 暂无 | [2025春 (A)](../USTC/25SpThermAFinal.pdf)、[2025春 (B)](../USTC/25SpThermBFinal.pdf) |
+|2026春| 暂无 | 暂无 |
 
 
 ## 电磁学
@@ -48,6 +49,7 @@ layout: single  # 单栏布局
 |2023春| 暂无 | 暂无 |
 |2024春| [叶邦角 (H)](../USTC/24SpEMHMid.pdf)、[卢三 (A)](../USTC/24SpEMAMidLS.pdf) | [叶邦角 (H)](../USTC/24SpEMHFinal.pdf) |
 |2025春| [叶邦角 (H)](../USTC/25SpEMHMid.pdf) | [叶邦角 (H)](../USTC/25SpEMHFinal.pdf) |
+|2026春| 暂无 | 暂无 |
 
 
 
@@ -79,6 +81,7 @@ layout: single  # 单栏布局
 |2023春| 暂无 |
 |2024春| 暂无 |
 |2025春| [2025春 (A)](../USTC/25SpAtomAFinal.pdf) |
+|2026春| 暂无 |
 
 [原子物理上古密卷](../USTC/AtomAFinal.pdf)
 
@@ -93,6 +96,7 @@ layout: single  # 单栏布局
 |2023春| 暂无 |
 |2024春| 暂无 |
 |2025春| 暂无 |
+|2026春| 暂无 |
 
 [电子技术基础上古密卷1](../USTC/FElecFinal1.pdf)
 
@@ -111,8 +115,3 @@ layout: single  # 单栏布局
 |2025秋| 暂无 |
 
 
-## 大学物理实验
- 
-|类别|参考报告|投稿人|
-|:----:|:------------:|:------------:|
-|一级大雾| 暂无 |  |
