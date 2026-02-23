@@ -31,7 +31,7 @@ layout: single  # 单栏布局
 
 |年份|期中考试|期末考试|
 |:----:|:------------:|:------------:|
-|2020年前| [16春核院 (A)](../USTC/16SpEDAFinalPHJ.pdf) | 潘海俊 (A)：[14春](../USTC/14SpEDAFinalPHJ.pdf)、[15春](../USTC/15SpEDAFinalPHJ.pdf)、[16春](../USTC/16SpEDAFinalPHJ.pdf)、[17春](../USTC/17SpEDAFinalPHJ.pdf) |
+|2020年前| [16春核院 (A)](../USTC/16SpEDAFinalPHJ.pdf) | 潘海俊 (A)：[14春](../USTC/14SpEDAFinalPHJ.pdf)、[15春](../USTC/15SpEDAFinalPHJ.pdf)、[16春](../USTC/16SpEDAFinalPHJ.pdf)、[17春](../USTC/17SpEDAFinalPHJ.pdf)<br> 杨焕雄 (A)：[16春](../USTC/16SpEDAFinalYHX.pdf)、[17春](../USTC/17SpEDAFinalPYHX.pdf) <br> [19春王少杰 (A)](../USTC/19SpEDAFinalWSJ.pdf) |
 |2020春| 暂无 | [未知老师 (A)](../USTC/20SpEDAFinal.pdf)、[王少杰 (A)](../USTC/20SpEDAFinalWSJ.pdf)、[杨焕雄 (A)](../USTC/20SpEDAFinalYHX.pdf) |
 |2021春| 暂无 | 暂无 |
 |2022春| 暂无 | 暂无 |
@@ -39,6 +39,7 @@ layout: single  # 单栏布局
 |2024春| [杨焕雄 (A)](../USTC/24SpEDAMidYHX.pdf) | [杨焕雄 (A)](../USTC/24SpEDAFinalYHX.pdf) |
 |2024秋| 无 | [刘子奚 (A)](../USTC/24FaEDAFinal.pdf) |
 |2025春| [杨焕雄 (A)](../USTC/25SpEDAMidYHX.pdf) | [杨焕雄 (A)](../USTC/25SpEDAFinalYHX.pdf) |
+|2026春| 暂无 | 暂无 |
 
 ## 量子力学
 

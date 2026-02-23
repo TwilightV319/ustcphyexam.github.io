@@ -55,7 +55,7 @@ USTC-coursedata: [贡献者名单](https://ustcguide.gitbook.io/coursedata/start
 
 2021: 施耀炜、罗钰涵
 
-2023: 于洪飞、贺澳、杨子华、金吴凡
+2023: 于洪飞、贺澳、杨子华、金吴凡、李响
 
 2022: 唐延宇
 
