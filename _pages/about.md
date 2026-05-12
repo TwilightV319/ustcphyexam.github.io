@@ -61,7 +61,7 @@ USTC-coursedata: [贡献者名单](https://ustcguide.gitbook.io/coursedata/start
 
 2024: 黎奉熙、陈联宇、吴竞翔、韩佳平、于世霆
 
-2025: 肖祖扬、李清臣、易林轩、李林泽、刘锟
+2025: 肖祖扬、李清臣、易林轩、李林泽、刘锟、邓心宇
 
 *贡献名单并不完整，如果您对历年真题做出贡献欢迎联系[邮箱](mailto:ustcphyexam@163.com)，我们十分乐意将您加入贡献者名单.*
 
