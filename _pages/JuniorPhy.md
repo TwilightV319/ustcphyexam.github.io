@@ -70,6 +70,8 @@ EMAMid.pdf) | 暂无 |
 |2024秋| [2024秋 (A)](../USTC/24FaOpticsAfinal.pdf) |
 |2025秋| [2025秋 (A)](../USTC/25FaOpticsAfinal.pdf) |
 
+[2026 春期中考试 (A)](../USTC/26SpOpticsAMid.pdf)
+
 [光学上古密卷](../USTC/OpticalAFinal.pdf)
 
 ## 原子物理
@@ -86,6 +88,8 @@ EMAMid.pdf) | 暂无 |
 |2024春| 暂无 |
 |2025春| [2025春 (A)](../USTC/25SpAtomAFinal.pdf) |
 |2026春| 暂无 |
+
+[2026 春吴恩亮班期中考试 (A)](../USTC/26SpAtomAMidWEL.pdf)
 
 [原子物理上古密卷](../USTC/AtomAFinal.pdf)
 
