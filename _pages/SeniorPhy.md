@@ -47,7 +47,7 @@ layout: single  # 单栏布局
 
 |年份|期中考试|期末考试|
 |:----:|:------------:|:------------:|
-|2020年前| 石名俊 (A)：[14秋](../USTC/14FaQMAMidSMJ.pdf)、[15秋1](../USTC/15FaQMAMidSMJ1.pdf)、[15秋2](../USTC/15FaQMAMidSMJ2.pdf)、[16秋](../USTC/16FaQMAMidSMJ.pdf)、[17秋](../USTC/17FaQMAMidSMJ.pdf)、[18秋](../USTC/18FaQMAMidSMJ.pdf)  | 石名俊：[12秋](../USTC/12FaQMADFinalSMJ.pdf)、[13秋](../USTC/13FaQMADFinalSMJ.pdf)、[14秋](../USTC/14FaQMADFinalSMJ.pdf)、[15秋](../USTC/15FaQMADFinalSMJ.pdf)、[16秋](../USTC/16FaQMADFinalSMJ.pdf) <br> 未知老师：[18秋](../USTC/18FaQMAFinal.pdf)、[19秋](../USTC/19FaQMAFinal.pdf)  |
+|2020年前| 石名俊 (A)：[14秋](../USTC/14FaQMAMidSMJ.pdf)、[15秋1](../USTC/15FaQMAMidSMJ1.pdf)、[15秋2](../USTC/15FaQMAMidSMJ2.pdf)、[16秋](../USTC/16FaQMAMidSMJ.pdf)、[17秋](../USTC/17FaQMAMidSMJ.pdf)、[18秋](../USTC/18FaQMAMidSMJ.pdf)  | 石名俊：[12秋](../USTC/12FaQMAFinalSMJ.pdf)、[13秋](../USTC/13FaQMAFinalSMJ.pdf)、[14秋](../USTC/14FaQMAFinalSMJ.pdf)、[15秋](../USTC/15FaQMAFinalSMJ.pdf)、[17秋](../USTC/17FaQMAFinalSMJ.pdf) <br> 未知老师：[18秋](../USTC/18FaQMAFinal.pdf)、[19秋](../USTC/19FaQMAFinal.pdf)  |
 |2020秋| 暂无 | [杨焕雄 (A)](../USTC/20FaQMAFinalYHX.pdf) |
 |2021秋| 暂无 | [杨焕雄 (A)](../USTC/21FaQMAFinalYHX.pdf) |
 |2022秋| 暂无 | [石名俊 (A)](../USTC/22FaQMAFinalSMJ.pdf) |
