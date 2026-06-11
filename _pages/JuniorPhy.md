@@ -33,7 +33,7 @@ layout: single  # 单栏布局
 |2023春| 暂无 | 暂无 |
 |2024春| 暂无 | [2024春 (A)](../USTC/24SpThermAFinal.pdf) |
 |2025春| 暂无 | [2025春 (A)](../USTC/25SpThermAFinal.pdf)、[2025春 (B)](../USTC/25SpThermBFinal.pdf) |
-|2026春| 暂无 | 暂无 |
+|2026春| 暂无 | [预考（朱弘）(A)](../USTC/25SpThermApreFinalZH.pdf) |
 
 [2026春免修考试](../USTC/26SpThermAFirst.pdf)
 
@@ -51,7 +51,7 @@ layout: single  # 单栏布局
 EMAMid.pdf) | 暂无 |
 |2024春| [叶邦角 (H)](../USTC/24SpEMHMid.pdf)、[卢三 (A)](../USTC/24SpEMAMidLS.pdf) | [叶邦角 (H)](../USTC/24SpEMHFinal.pdf) |
 |2025春| [叶邦角 (H)](../USTC/25SpEMHMid.pdf) | [叶邦角 (H)](../USTC/25SpEMHFinal.pdf) |
-|2026春| [邓友金 (A)](../USTC/26SpEMAMidDYJ.pdf), [叶邦角 (H)](../USTC/26SpEMHMid.pdf) | 暂无 |
+|2026春| [邓友金 (A)](../USTC/26SpEMAMidDYJ.pdf), [叶邦角 (H)](../USTC/26SpEMHMid.pdf), [卢三 (A)](../USTC/26SpEMAMidLS.pdf)  | 暂无 |
 
 [2026春免修考试](../USTC/26SpEMAFirst.pdf)
 
