@@ -7,6 +7,20 @@ redirect_from:
   - /about.html
 ---
 
+# 最后一次更新：2026.6.23
+
+更新内容：
+
+- [2026春天体力学与天体测量基础期末考试]((../USTC/26SpCMAMFinal.pdf)) 
+- [2026春热力学与统计物理 (B) 期中考试]((../USTC/25SpTDBMid.pdf))
+- 更新[数理方程历年真题](../USTC/MathPhy.pdf)
+- 一些[模拟电路试卷](/JuniorPhy/)，来自 QQ 群聊
+- 一些[固体物理试卷](/SeniorPhy/)、[量子力学试卷](/SeniorPhy/)、[热力学与统计物理试卷](/SeniorPhy/)，来自[我的科大](https://wdkd.feixu.site/)
+
+完整更新日志[点击查看](/log/).
+
+---
+
 欢迎各位科大同学访问这个主页. 本页面由友站[USTC数学课程往年试卷](https://ustcmathexam.github.io/)改编而来，感谢数学学院的同学开创这个先例，我们物理人也要紧随其后. 
 
 注意：如果有试卷连接404或出现其他问题，请及时联系[邮箱](mailto:ustcphyexam@163.com)处理. 
@@ -34,8 +48,7 @@ redirect_from:
 我们计划优先完善[普通物理](/JuniorPhy/)与[四大力学](/SeniorPhy)中统考的内容，欢迎大家共同寻找、投稿下列试卷：
 
 - 2020 秋光学 (A) 期末；
-- 2020春、2021春、2023春、2024春原子物理 (A) 期末；
-- 2020春热力学与统计物理 (A) 期末.
+- 2020春、2021春、2023春、2024春原子物理 (A) 期末.
 
 
 
@@ -43,7 +56,7 @@ redirect_from:
 致谢名单
 ======
 
-本页面的试卷PDF源文件由同学投稿、施耀炜学长的[coursedata](https://ustcguide.gitbook.io/coursedata)、教务系统和评课社区获得. 
+本页面的试卷PDF源文件由同学投稿、施耀炜学长的[coursedata](https://ustcguide.gitbook.io/coursedata)、[我的科大](https://wdkd.feixu.site/)、教务系统和评课社区获得. 
 
 以下名单的排序按照本科入学年级+姓氏首字母（入学年级默认本科入学年级）. 请您投稿时附带注明您的姓名、年级，除非您希望匿名投稿. 
 

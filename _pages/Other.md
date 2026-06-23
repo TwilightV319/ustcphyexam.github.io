@@ -14,14 +14,14 @@ layout: single  # 单栏布局
 
 ## 专业必修
 
-|年份|天体物理概论|天体力学与天体测量|实测天体物理学|恒星物理基础|
+|年份|天体物理概论|天体力学与天体测量基础|实测天体物理学|恒星物理基础|
 |:----:|:------------:|:------------:|:------------:|:------------:|
 |2020秋-2021春| 暂无 | 暂无 | 暂无 | [期末考试](../USTC/21SpStellarFinal.pdf) |
 |2021秋-2022春| 暂无 | 暂无 | 暂无 | [期末考试](../USTC/22SpStellarFinal.pdf) |
 |2022秋-2023春| 暂无 | 暂无 | 暂无 | [期末考试](../USTC/23SpStellarFinal.pdf) |
 |2023秋-2024春| 暂无 | 暂无 | 暂无 | [期末考试](../USTC/24SpStellarFinal.pdf) |
 |2024秋-2025春| 暂无 | 暂无 | 暂无 | [期末考试](../USTC/25SpStellarFinal.pdf) |
-|2025秋-2026春| [周宏岩, 刘桂琳](../USTC/25FaIntroAstroPhyFinal.pdf) | 暂无 | [期末考试](../USTC/26SpObsAstroFinal.pdf) | 暂无 |
+|2025秋-2026春| [周宏岩, 刘桂琳](../USTC/25FaIntroAstroPhyFinal.pdf) | [期末考试](../USTC/26SpCMAMFinal.pdf) | [期末考试](../USTC/26SpObsAstroFinal.pdf) | 暂无 |
 
 ## 专业选修
 

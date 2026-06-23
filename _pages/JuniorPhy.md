@@ -93,17 +93,26 @@ layout: single  # 单栏布局
 [原子物理上古密卷](../USTC/AtomAFinal.pdf)
 
 
-## 电子技术基础/电子线路
+## 模拟电路
+
+包括：电子技术基础 (EE2501)、电子线路 (210515)、电子电路、线性电子线路 (023181)
  
 |年份|考试|
 |:----:|:------------:|
-|2020春| 暂无 |
-|2021春| 暂无 |
-|2022春| 暂无 |
-|2023春| 暂无 |
-|2024春| 暂无 |
-|2025春| 暂无 |
-|2026春| 暂无 |
+| 2020 年前 | [14秋与16秋线性电子线路](../USTC/14Fa16FaLElecFinal.pdf)、[17秋电子电路](../USTC/17FaElecFinal.pdf) <br> [19春电子电路](../USTC/19SpElecFinal.pdf) 、[19春线性电子线路](../USTC/19SpLElecFinal.pdf) |
+|2020| 暂无 |
+|2021| [21春电子电路](../USTC/21SpElecFinal.pdf) 、 [21秋电子技术基础](../USTC/21FaElecFinal.pdf)  |
+|2022| 暂无 |
+|2023| [23春电子线路](../USTC/23SpElecFinal.pdf)  |
+|2024| 暂无 |
+|2025| 暂无 |
+|2026| 暂无 |
+
+[未知年份试卷1](../USTC/UkElecFinal1.pdf)
+
+[未知年份试卷2](../USTC/UkElecFinal2.pdf)
+
+[未知年份线性电子线路](../USTC/UkLElecFinal.pdf)
 
 [电子技术基础上古密卷1](../USTC/FElecFinal1.pdf)
 

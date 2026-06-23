@@ -50,9 +50,9 @@ layout: single  # 单栏布局
 |2020年前| 石名俊 (A)：[14秋](../USTC/14FaQMAMidSMJ.pdf)、[15秋1](../USTC/15FaQMAMidSMJ1.pdf)、[15秋2](../USTC/15FaQMAMidSMJ2.pdf)、[16秋](../USTC/16FaQMAMidSMJ.pdf)、[17秋](../USTC/17FaQMAMidSMJ.pdf)、[18秋](../USTC/18FaQMAMidSMJ.pdf)  | 石名俊：[12秋](../USTC/12FaQMAFinalSMJ.pdf)、[13秋](../USTC/13FaQMAFinalSMJ.pdf)、[14秋](../USTC/14FaQMAFinalSMJ.pdf)、[15秋](../USTC/15FaQMAFinalSMJ.pdf)、[17秋](../USTC/17FaQMAFinalSMJ.pdf) <br> 未知老师：[18秋](../USTC/18FaQMAFinal.pdf)、[19秋](../USTC/19FaQMAFinal.pdf)  |
 |2020秋| 暂无 | [杨焕雄 (A)](../USTC/20FaQMAFinalYHX.pdf) |
 |2021秋| 暂无 | [杨焕雄 (A)](../USTC/21FaQMAFinalYHX.pdf) |
-|2022秋| 暂无 | [石名俊 (A)](../USTC/22FaQMAFinalSMJ.pdf) |
+|2022秋| [杨焕雄 (A)](../USTC/22FaQMAMidYHX.pdf) | [石名俊 (A)](../USTC/22FaQMAFinalSMJ.pdf) |
 |2023秋| 暂无 | [石名俊 (A)](../USTC/23FaQMAFinalSMJ.pdf)、[杨焕雄 (A)](../USTC/23FaQMAFinalYHX.pdf) |
-|2024秋| [石名俊 (A)](../USTC/24FaQMAMidSMJ.pdf)、[杨焕雄 (A)](../USTC/24FaQMAMidYHX.pdf) | [石名俊 (A)](../USTC/24FaQMAFinalSMJ.pdf) |
+|2024秋| [石名俊 (A)](../USTC/24FaQMAMidSMJ.pdf)、[杨焕雄 (A)](../USTC/24FaQMAMidYHX.pdf) | [石名俊 (A)](../USTC/24FaQMAFinalSMJ.pdf)、[杨焕雄 (A)](../USTC/24FaQMAFinalYHX.pdf) |
 |2025秋| [易为 (B)](../USTC/25FaQMBMidYY.pdf) | [石名俊 (A)](../USTC/25FaQMAFinalSMJ.pdf)、 [郑炜,姚星灿 (A)](../USTC/25FaQMAFinalYXC.pdf)、 [易为 (B)](../USTC/25FaQMBFinalYY.pdf) |
 
 
@@ -65,13 +65,13 @@ layout: single  # 单栏布局
 |年份|期中考试|期末考试|
 |:----:|:------------:|:------------:|
 |2020年前| [17春 (A)](../USTC/17SpTDAMid.pdf)、[18春 (A)](../USTC/18SpTDAMid.pdf)、[19春 (A)](../USTC/19SpTDAMid.pdf) | [16春 (A)](../USTC/16SpTDAFinal.pdf)、[17春 (A)](../USTC/17SpTDAFinal.pdf)、[18春 (A)](../USTC/18SpTDAFinal.pdf)、[19春 (A)](../USTC/19SpTDAFinal.pdf) |
-|2020春| 暂无 | [2020春期末 (A)](../USTC/20SpTDAFinal.pdf) |
+|2020春| [2020春期中 (A)](../USTC/20SpTDAMid.pdf) | [2020春期末 (A)](../USTC/20SpTDAFinal.pdf) |
 |2021春| [2021春期中 (A)](../USTC/21SpTDAMid.pdf) | [2021春期末 (A)](../USTC/21SpTDAFinal.pdf) |
 |2022春| [2022春期中 (A)](../USTC/22SpTDAMid.pdf) | [2022春期末 (A)](../USTC/22SpTDAFinal.pdf) |
 |2023春| [2023春期中 (A)](../USTC/23SpTDAMid.pdf) | [2023春期末 (A)](../USTC/23SpTDAFinal.pdf) |
 |2024春| [2024春期中 (A)](../USTC/24SpTDAMid.pdf) | [2024春期末 (A)](../USTC/24SpTDAFinal.pdf) |
 |2025春| [2025春期中 (A)](../USTC/25SpTDAMid.pdf) | [2025春期末 (A)](../USTC/25SpTDAFinal.pdf) |
-|2026春| 暂无 | 暂无 |
+|2026春| [2026春期中 (B)](../USTC/25SpTDBMid.pdf) | 暂无 |
 
 
 ## 计算物理
@@ -80,9 +80,8 @@ layout: single  # 单栏布局
 
 |年份|期末考试|
 |:----:|:------------:|
-|2020秋| 暂无 |
-|2021秋| 暂无 |
-|2022秋| 暂无 |
+|2021秋| [张仁友 (B)](../USTC/21FaCompPhyBFinalZRY.pdf) |
+|2022秋| [张志勇 (B)](../USTC/22FaCompPhyBFinalZZY.pdf)、[吴雨生 (B)](../USTC/22FaCompPhyBFinalWYS.pdf) |
 |2023秋| 暂无 |
 |2024秋| 暂无 |
 |2025春| [张志勇,魏逸丰 (B)](../USTC/25SpCompPhyBFinal.pdf) |
@@ -92,9 +91,10 @@ layout: single  # 单栏布局
 
 |年份|考试|
 |:----:|:------------:|
+|2020 年前 | [2019春期末 (A)](../USTC/19SpSSPAFinal.pdf) | 
 |2020春| 暂无 |
-|2021春| 暂无 |
-|2022春| 暂无 |
+|2021春| [2021春期末](../USTC/21SpSSPFinal.pdf) |
+|2022春| [2022春期末](../USTC/21SpSSPFinal.pdf) |
 |2023春| 暂无 |
 |2024春| 暂无 |
 |2025春| 暂无 |
