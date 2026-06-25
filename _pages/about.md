@@ -7,15 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-# 最后一次更新：2026.6.23
+# 最后一次更新：2026.6.25
 
 更新内容：
 
-- [2026春天体力学与天体测量基础期末考试]((../USTC/26SpCMAMFinal.pdf)) 
-- [2026春热力学与统计物理 (B) 期中考试]((../USTC/25SpTDBMid.pdf))
-- 更新[数理方程历年真题](../USTC/MathPhy.pdf)
-- 一些[模拟电路试卷](/JuniorPhy/)，来自 QQ 群聊
-- 一些[固体物理试卷](/SeniorPhy/)、[量子力学试卷](/SeniorPhy/)、[热力学与统计物理试卷](/SeniorPhy/)，来自[我的科大](https://wdkd.feixu.site/)
+- [2026春固体物理期末考试](../USTC/26SpSSPFinal.pdf)
+- [2026春原子物理 A 期末考试选择题部分](../USTC/25SpAtomAFinal.pdf)
+
 
 完整更新日志[点击查看](/log/).
 
