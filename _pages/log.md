@@ -9,7 +9,8 @@ layout: single  # 单栏布局
 #### 6.25 更新
 
 - [2026春固体物理期末考试](../USTC/26SpSSPFinal.pdf)
-- [2026春原子物理 A 期末考试选择题部分](../USTC/25SpAtomAFinal.pdf)
+- [2025秋原子物理 A 期末考试](../USTC/25FaAtomAFinal.pdf)、[2026春原子物理 A 期末考试选择题部分](../USTC/25SpAtomAFinal.pdf)
+
 
 #### 6.23 更新
 
