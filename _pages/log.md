@@ -6,6 +6,10 @@ layout: single  # 单栏布局
 
 ### 2026.6
 
+#### 6.26 更新
+- [2026春电动力学 A 李弘期末考试](../USTC/26SpEDAFinalLH.pdf)
+- [2025秋理论力学 A 冯畅期末考试](../USTC/25FaTMAFinalFC.pdf)
+
 #### 6.25 更新
 
 - [2026春固体物理期末考试](../USTC/26SpSSPFinal.pdf)

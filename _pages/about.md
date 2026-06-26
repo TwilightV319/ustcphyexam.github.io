@@ -7,12 +7,12 @@ redirect_from:
   - /about.html
 ---
 
-# 最后一次更新：2026.6.25
+# 最后一次更新：2026.6.26
 
 更新内容：
 
-- [2026春固体物理期末考试](../USTC/26SpSSPFinal.pdf)
-- [2025秋原子物理 A 期末考试](../USTC/25FaAtomAFinal.pdf)、[2026春原子物理 A 期末考试选择题部分](../USTC/25SpAtomAFinal.pdf)
+- [2026春电动力学 A 李弘期末考试](../USTC/26SpEDAFinalLH.pdf)
+- [2025秋理论力学 A 冯畅期末考试](../USTC/25FaTMAFinalFC.pdf)
 
 
 完整更新日志[点击查看](/log/).

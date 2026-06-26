@@ -21,7 +21,7 @@ layout: single  # 单栏布局
 |2023春| 暂无 | [曹利明 (A)](../USTC/23SpTMAFinalCLM.pdf) |
 |2023秋| 暂无 | 暂无 |
 |2024秋| [袁业飞第一次 (A)](../USTC/24FaTMAMidYYF1.pdf)、[潘海俊 (A)](../USTC/24FaTMAMidPHJ.pdf) | [潘海俊 (A)](../USTC/24FaTMAFinalPHJ.pdf) |
-|2025秋| [朱界杰 (A)](../USTC/25FaTMAMidZJJ.pdf) | [朱界杰 (A)](../USTC/25FaTMAFinalZJJ.pdf)、[袁业飞 (A)](../USTC/25FaTMAFinalYYF.pdf) |
+|2025秋| [朱界杰 (A)](../USTC/25FaTMAMidZJJ.pdf) | [朱界杰 (A)](../USTC/25FaTMAFinalZJJ.pdf)、[袁业飞 (A)](../USTC/25FaTMAFinalYYF.pdf)、[冯畅 (A)](../USTC/25FaTMAFinalFC.pdf) |
 
 ## 电动力学
 
@@ -39,7 +39,7 @@ layout: single  # 单栏布局
 |2024春| [杨焕雄 (A)](../USTC/24SpEDAMidYHX.pdf) | [杨焕雄 (A)](../USTC/24SpEDAFinalYHX.pdf) |
 |2024秋| 无 | [刘子奚 (A)](../USTC/24FaEDAFinal.pdf) |
 |2025春| [杨焕雄 (A)](../USTC/25SpEDAMidYHX.pdf) | [杨焕雄 (A)](../USTC/25SpEDAFinalYHX.pdf) |
-|2026春| [贾青 (A)](../USTC/26FallEDAMidJQ.pdf) | 暂无 |
+|2026春| [贾青 (A)](../USTC/26FallEDAMidJQ.pdf) | [李弘 (A)](../USTC/26SpEDAFinalLH.pdf) |
 
 ## 量子力学
 
